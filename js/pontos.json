@@ -1,0 +1,38 @@
+[
+    {
+        "Latitude": -19.212355602107472,
+        "Longitude": -44.20234468749999,
+        "Categoria": 1,
+        "Descricao": "teste1"
+    },
+    {
+        "Latitude": -22.618827234831404,
+        "Longitude": -42.57636812499999,
+        "Categoria": 2,
+        "Descricao": "teste2"
+    },
+    {
+        "Latitude": -22.57825604463875,
+        "Longitude": -48.68476656249999,
+        "Categoria": 3,
+        "Descricao": "teste3"
+    },
+    {
+        "Latitude": -23.5560000,
+        "Longitude": -46.7500000,
+        "Categoria": 4,
+        "Descricao": "teste4"
+    },
+    {
+    	"Latitude": -23.5568858,
+    	"Longitude":-46.7519835,
+    	"Categoria": 1,
+        "Descricao": "teste5"
+    },
+    {
+    	"Latitude": -23.55739,
+    	"Longitude":-46.7452883,
+    	"Categoria": 2,
+        "Descricao": "teste6"
+    }
+]

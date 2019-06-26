@@ -1,0 +1,22 @@
+html { 
+	height: 100% 
+}
+
+body { 
+	/* Alterar altura e largura apenas nas divs */
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0 
+}
+
+#map_canvas { 
+	/*width:80%;
+	height:80%;*/
+	height: 550px; 
+	width: 100%;
+}
+
+.botaoAtualizar {
+	float: right;
+}
